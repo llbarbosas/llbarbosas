@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="left">
+   <img src=".github/logo.svg" alt="llbarbosas's logo" width="100">
+  <i>[This is my logo. It's about obtaining<br/>new perspectives on problems that I want to solve]</i>
+</p>
 
-<!--
-**llbarbosas/llbarbosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 &nbsp; Hello world! I'm attending a graduate in Software Engineering on UFMS and also a full-stack freelancer developer in my spare time.
 
-Here are some ideas to get you started:
+### 💡 &nbsp; Driven by solve people problems with creative solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 &nbsp; Things that I'm learning by now
+- 🔨 &nbsp; NodeJS, Deno, React, Flutter, Yew, GTK/Cairo Graphics, Docker.
+- 👅 &nbsp; TypeScript, Rust and some English 😅.
+- 💭 &nbsp; Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
+
+### 📫 &nbsp; You can reach me on
+- 📫 &nbsp; llbarbosasc@gmail.com
+- 📷 &nbsp; @llbarbosas

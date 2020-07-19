@@ -1,5 +1,5 @@
 <p align="left">
-   <img src=".github/logo.svg" alt="llbarbosas's logo" width="100">
+   <img src="https://i.ibb.co/6bbm5RQ/logo.png" alt="llbarbosas logo" border="0" width="100">
   <i>[This is my logo. It's about obtaining<br/>new perspectives on problems that I want to solve]</i>
 </p>
 

@@ -1,6 +1,6 @@
 <p align="left">
    <img src="https://i.ibb.co/6bbm5RQ/logo.png" alt="llbarbosas logo" border="0" width="100">
-  <i>[This is my logo. It's all about obtaining<br/>new perspectives 💭]</i>
+  <i>[This is my logo. New perspectives are the key 💭]</i>
 </p>
 
 👋 &nbsp; Hello world! I'm attending a graduate in Software Engineering on UFMS and also a full-stack freelancer developer in my spare time.

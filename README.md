@@ -13,6 +13,6 @@
 - 💭 &nbsp; Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
 
 ### 📫 &nbsp; You can reach me on
-- 💻 &nbsp; llbarbosas.dev
-- 📫 &nbsp; eu@llbarbosas.dev
-- 📷 &nbsp; @llbarbosas
+- 💻 &nbsp; [llbarbosas.dev](http://llbarbosas.dev)
+- 📫 &nbsp; [eu@llbarbosas.dev](mailto:eu@llbarbosas.dev?subject=[GitHub]%20Hello%20there!)
+- 📷 &nbsp; [@llbarbosas](http://instagram.com/llbarbosas)

@@ -9,7 +9,7 @@
 
 ### 🌱 &nbsp; Things that I'm learning by now
 - 🔨 &nbsp; NodeJS, Deno, React, NextJS, NestJS, Flutter, Yew, GTK/Cairo Graphics. 😅
-- 👅 &nbsp; TypeScript, Rust, Closure ~~and english 😅~~.
+- 👅 &nbsp; TypeScript, Rust, Clojure ~~and english 😅~~.
 - 💭 &nbsp; Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
 
 ### 📫 &nbsp; You can reach me on

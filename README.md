@@ -8,9 +8,9 @@
 ### 💡 &nbsp; Driven by solve people problems with creative solutions
 
 ### 🌱 &nbsp; Things that I'm learning by now
-- 🔨 &nbsp; NodeJS, Deno, React, NextJS, NestJS, Flutter, Yew, GTK/Cairo Graphics. 😅
-- 👅 &nbsp; TypeScript, Rust, Clojure ~~and english 😅~~.
-- 💭 &nbsp; Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
+- 🔨 &nbsp; &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/deno.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/next-dot-js.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/nestjs.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/nativescript.svg" /> Yew, GTK/Cairo Graphics. 😅
+- 👅 &nbsp; &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" /> &nbsp; <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/clojure.svg" /> ~~and english 😅~~.
+- 💭 &nbsp; &nbsp; Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
 
 ### 📫 &nbsp; You can reach me on
 - 🌐 &nbsp; [llbarbosas.dev](http://llbarbosas.dev)

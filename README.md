@@ -28,8 +28,11 @@
 #### 💭 &nbsp; Concepts/Tecnologies
 Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
 
+### 🙋💡 &nbsp; It will be a pleasure to give you a hand!
+
 ### 📫 &nbsp; You can reach me on
 - 🌐 &nbsp; [llbarbosas.dev](http://llbarbosas.dev)
 - 📫 &nbsp; [eu@llbarbosas.dev](mailto:eu@llbarbosas.dev?subject=[GitHub]%20Hello%20there!)
 - 📷 &nbsp; [@llbarbosas](http://instagram.com/llbarbosas)
 - 🏢 &nbsp; [llbarbosas](https://www.linkedin.com/in/llbarbosas)
+

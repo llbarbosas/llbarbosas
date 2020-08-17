@@ -3,7 +3,7 @@
   <i>[This is my logo.<br/>New perspectives are the key 💭]</i>
 </p>
 
-👋 &nbsp; Hello world! I'm working at [Uperttech](http://uperttech.com) and attending a graduate in Software Engineering on UFMS. 
+👋 &nbsp; Hello world! I'm currently working at [Uperttech](http://uperttech.com) as a full stack developer and attending a graduate in Software Engineering on UFMS. 
 
 ### 💡 &nbsp; Driven by solve people problems with creative solutions
 

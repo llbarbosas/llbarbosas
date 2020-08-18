@@ -23,6 +23,7 @@
 #### 👅 &nbsp; Languages
 <img alt="Typescript" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /> &nbsp; 
 <img alt="Rust" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" /> &nbsp; 
+<img alt="Golang" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/go.svg" /> &nbsp; 
 <img alt="Clojure" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/clojure.svg" />
 
 #### 💭 &nbsp; Concepts/Tecnologies

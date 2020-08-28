@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=llbarbosas&show_icons=true" alt="llbarbosas github status"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=llbarbosas&show_icons=true&theme=nord" alt="llbarbosas github status"/>
 
 <p align="left">
    <img src="https://i.ibb.co/6bbm5RQ/logo.png" alt="llbarbosas logo" border="0" width="100">

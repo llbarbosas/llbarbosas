@@ -9,7 +9,7 @@
 
 ### 💡 &nbsp; Driven by solve people problems with creative solutions
 
-### 🌱 &nbsp; Things that I'm learning by now
+### 🌱 &nbsp; Things I'm interested in now
 
 #### 🔨 &nbsp; Tools/Frameworks
 <img alt="NodeJS" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" /> &nbsp; 
@@ -29,7 +29,7 @@
 <img alt="Clojure" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/clojure.svg" />
 
 #### 💭 &nbsp; Concepts/Tecnologies
-Blockchain, WebSockets/WebRTC, gRPC, functional programming, microservices, UX/UI.
+Blockchain, WebSockets/WebRTC, gRPC, Clean Architecture, functional programming, microservices, UX/UI.
 
 ### 🙋💡 &nbsp; It will be a pleasure to give you a hand!
 

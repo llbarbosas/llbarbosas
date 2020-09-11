@@ -9,7 +9,7 @@
 
 ### 💡 &nbsp; Driven by solve people problems with creative solutions
 
-### 🌱 &nbsp; Things I'm interested in now
+### 🌱 &nbsp; Things I'm interested for now
 
 #### 🔨 &nbsp; Tools/Frameworks
 <img alt="NodeJS" height="25" width="25" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" /> &nbsp; 

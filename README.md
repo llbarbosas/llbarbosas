@@ -6,10 +6,10 @@ Full stack developer @ [Uperttech](http://uperttech.com) and attending a graduat
 
 Trying to provide extraordinary solutions to ordinary problems.
 
-<img alt="Site" src="https://img.shields.io/badge/-llbarbosas.dev-E8EEF1?style=flat-square&logoColor=000" /> &nbsp;
-<img alt="E-mail" src="https://img.shields.io/badge/-eu@llbarbosas.dev-E8EEF1?style=flat-square&logo=gmail&logoColor=000" /> &nbsp;
-<img alt="LinkedIn" src="https://img.shields.io/badge/-@llbarbosas-E8EEF1?style=flat-square&logo=linkedin&logoColor=000" /> &nbsp;
-<img alt="Instagram" src="https://img.shields.io/badge/-@llbarbosas-E8EEF1?style=flat-square&logo=instagram&logoColor=000" />
+<a href="https://llbarbosas.dev"><img alt="Site" src="https://img.shields.io/badge/-llbarbosas.dev-E8EEF1?style=flat-square&logoColor=000" /></a> &nbsp;
+<a href="mailto:eu@llbarbosas.dev"><img alt="E-mail" src="https://img.shields.io/badge/-eu@llbarbosas.dev-E8EEF1?style=flat-square&logo=gmail&logoColor=000" /></a> &nbsp;
+<a href="https://https://www.linkedin.com/in/llbarbosas"><img alt="LinkedIn" src="https://img.shields.io/badge/-@llbarbosas-E8EEF1?style=flat-square&logo=linkedin&logoColor=000" /></a> &nbsp;
+<a href="https://instagram.com/llbarbosas"><img alt="Instagram" src="https://img.shields.io/badge/-@llbarbosas-E8EEF1?style=flat-square&logo=instagram&logoColor=000" /></a>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-43B0F1?style=flat-square&logo=javascript&logoColor=fff" /> &nbsp;
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-43B0F1?style=flat-square&logo=typescript&logoColor=fff" /> &nbsp;

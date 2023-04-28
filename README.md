@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.ibb.co/RP96rRY/logo.png" alt="llbarbosas logo" border="0" width="60">
 
-Software Engineer @ [cento.software](http://cento.software) and pursuing a master's degree in Developer Relations on UFMS. 
+Software Engineer @ [cento.software](http://cento.software) and pursuing a master's degree in Developer Relations on [Federal University of Mato Grosso do Sul (UFMS)](https://ufms.br). 
 
 Trying to provide extraordinary solutions to ordinary problems.
 

@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.ibb.co/RP96rRY/logo.png" alt="llbarbosas logo" border="0" width="60">
 
-Full stack developer @ [Uperttech](http://uperttech.com) and attending a graduate in Software Engineering on UFMS. 
+Software Engineer @ [cento.software](http://cento.software) and pursuing a master's degree in Developer Relations on UFMS. 
 
 Trying to provide extraordinary solutions to ordinary problems.
 
